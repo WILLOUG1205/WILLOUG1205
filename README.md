@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on building programmes and softwares that will solve real life problems 
 - 📫 How to reach me: email - chagulukawillouby0@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He, Him 
 - ⚡ Fun fact: I am hard working and love learning new skill 
 
 <!---
